@@ -1,0 +1,273 @@
+{
+  "common": {
+    "appName": "ZeroWaste AI",
+    "tagline": "Sun'iy intellekt asosida",
+    "signIn": "Kirish",
+    "signUp": "Ro'yxatdan o'tish",
+    "signOut": "Chiqish",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "add": "Qo'shish",
+    "loading": "Yuklanmoqda...",
+    "loggedInAs": "Siz kirdingiz",
+    "language": "Til",
+    "theme": "Mavzu",
+    "light": "Yorug'",
+    "dark": "Qorong'i",
+    "system": "Tizim"
+  },
+  "nav": {
+    "dashboard": "Bosh sahifa",
+    "scan": "Skanerlash",
+    "inventory": "Inventar",
+    "recipes": "Retseptlar",
+    "settings": "Sozlamalar"
+  },
+  "landing": {
+    "hero": {
+      "badge": "Sun'iy intellekt bilan oziq-ovqat boshqaruvi",
+      "title1": "Oziq-ovqatni isrof qilmang.",
+      "title2": "Pul va sayyorani tejang.",
+      "description": "ZeroWaste AI sun'iy intellektdan foydalanib oziq-ovqat tarkibini kuzatib boradi, chiqindilarni kamaytiradi va mavjud mahsulotlardan retseptlar topadi.",
+      "cta": "Bepul boshlash",
+      "watchDemo": "Demo ko'rish"
+    },
+    "stats": {
+      "lessWaste": "Kamroq isrof",
+      "savedMonthly": "Oylik tejash",
+      "activeUsers": "Faol foydalanuvchilar"
+    },
+    "features": {
+      "scanning": {
+        "title": "AI skanerlash",
+        "description": "Kamera bilan oziq-ovqatni aniqlang va yangiligini tahlil qiling"
+      },
+      "inventory": {
+        "title": "Aqlli inventar",
+        "description": "Yaroqlilik muddatini kuzating va oldindan bildirishnomalar oling"
+      },
+      "recipes": {
+        "title": "Retsept tavsiyalari",
+        "description": "Oshxonangizda mavjud mahsulotlardan mazali retseptlarni toping"
+      },
+      "analytics": {
+        "title": "Isrof tahlili",
+        "description": "Yutuqlaringizni va tejamingizni kuzating"
+      }
+    },
+    "cta": {
+      "title": "Oziq-ovqat isrofini kamaytirishga tayyormisiz?",
+      "description": "ZeroWaste AI bilan pul tejaydigan va sayyoramizga yordam beradigan minglab foydalanuvchilarga qo'shiling.",
+      "button": "Bepul boshlash"
+    },
+    "footer": {
+      "copyright": "Har bir taom bilan oziq-ovqat isrofini kamaytirishga yordam beramiz."
+    }
+  },
+  "auth": {
+    "welcome": "Xush kelibsiz",
+    "createAccount": "Hisob yaratish",
+    "loginSubtitle": "Oziq-ovqat inventarini boshqarish uchun kiring",
+    "registerSubtitle": "Bugun oziq-ovqat isrofini kamaytirishni boshlang",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "fullName": "To'liq ism",
+    "loginButton": "Kirish",
+    "registerButton": "Hisob yaratish",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "hasAccount": "Hisobingiz bormi?",
+    "errors": {
+      "loginFailed": "Kirish xatosi",
+      "registerFailed": "Ro'yxatdan o'tish xatosi"
+    },
+    "success": {
+      "registered": "Hisob yaratildi! Endi kirishingiz mumkin."
+    }
+  },
+  "dashboard": {
+    "title": "Bosh sahifa",
+    "subtitle": "Oziq-ovqat inventaringizni kuzating va isrofni kamaytiring",
+    "scanFood": "Skanerlash",
+    "stats": {
+      "totalItems": "Jami mahsulotlar",
+      "inInventory": "Inventaringizda",
+      "freshItems": "Yangi mahsulotlar",
+      "safeToConsume": "Iste'mol uchun xavfsiz",
+      "expiringSoon": "Tez orada tugaydi",
+      "within3Days": "3 kun ichida",
+      "wastePrevented": "Oldini olingan isrof",
+      "thisMonth": "Bu oy",
+      "vsLastWeek": "o'tgan haftaga nisbatan",
+      "improvement": "yaxshilanish"
+    },
+    "quickActions": {
+      "scanNew": "Yangi mahsulot skanerlash",
+      "scanDesc": "AI yordamida mahsulotni aniqlang va yangiligini baholang",
+      "getRecipes": "Retseptlar olish",
+      "recipesDesc": "Inventaringizga asoslangan taomlarni kashf eting",
+      "viewInventory": "Inventarni ko'rish",
+      "inventoryDesc": "Barcha mahsulotlaringizni boshqaring va kuzating"
+    },
+    "expiringSection": {
+      "title": "Tez orada tugaydi",
+      "viewAll": "Hammasini ko'rish"
+    },
+    "emptyState": {
+      "title": "Inventaringiz bo'sh",
+      "description": "Yangilikni kuzatish va isrofni kamaytirish uchun mahsulotlarni skanerlashni yoki qo'lda qo'shishni boshlang.",
+      "button": "Birinchi mahsulotni skanerlash"
+    }
+  },
+  "scan": {
+    "title": "Skanerlash",
+    "subtitle": "AI yordamida mahsulotlarni aniqlang va yangiligini baholang",
+    "ready": {
+      "title": "Skanerlashga tayyor",
+      "description": "Mahsulotni aniqlash va yangiligini tekshirish uchun kamerani unga yo'naltiring.",
+      "openCamera": "Kamerani ochish",
+      "uploadImage": "Rasm yuklash"
+    },
+    "scanning": {
+      "analyzing": "Tahlil qilinmoqda...",
+      "capture": "Suratga olish"
+    },
+    "result": {
+      "identified": "Mahsulot aniqlandi",
+      "analysisComplete": "AI tahlili yakunlandi",
+      "foodItem": "Mahsulot",
+      "category": "Kategoriya",
+      "freshnessScore": "Yangilik bahosi",
+      "estimatedExpiry": "Taxminiy muddat",
+      "days": "kun",
+      "quantity": "Miqdor",
+      "addToInventory": "Inventarga qo'shish",
+      "scanAgain": "Qayta skanerlash"
+    },
+    "errors": {
+      "cameraAccess": "Kameraga ruxsat berilmadi",
+      "cameraDescription": "Mahsulotlarni skanerlash uchun kameraga ruxsat bering.",
+      "scanFailed": "Skanerlash xatosi",
+      "scanDescription": "Rasmni tahlil qilib bo'lmadi. Qaytadan urinib ko'ring.",
+      "saveFailed": "Saqlash xatosi",
+      "saveDescription": "Mahsulotni inventarga qo'shib bo'lmadi."
+    },
+    "success": {
+      "itemAdded": "Mahsulot qo'shildi!",
+      "itemAddedDesc": "inventaringizga qo'shildi."
+    }
+  },
+  "inventory": {
+    "title": "Inventar",
+    "subtitle": "Mahsulotlaringizni boshqaring va yaroqlilik muddatlarini kuzating",
+    "addItem": "Mahsulot qo'shish",
+    "filters": {
+      "all": "Barcha mahsulotlar",
+      "fresh": "Yangi",
+      "expiring": "Tez orada tugaydi",
+      "expired": "Muddati o'tgan"
+    },
+    "form": {
+      "editItem": "Mahsulotni tahrirlash",
+      "addNewItem": "Yangi mahsulot qo'shish",
+      "name": "Nomi",
+      "namePlaceholder": "masalan, Olma",
+      "quantity": "Miqdor",
+      "unit": "Birlik",
+      "category": "Kategoriya",
+      "expiryDate": "Yaroqlilik muddati",
+      "freshnessScore": "Yangilik bahosi",
+      "updateItem": "Mahsulotni yangilash"
+    },
+    "units": {
+      "piece": "Dona",
+      "kg": "Kg",
+      "liter": "Litr",
+      "pack": "Qadoq"
+    },
+    "categories": {
+      "fruits": "Mevalar",
+      "vegetables": "Sabzavotlar",
+      "dairy": "Sut mahsulotlari",
+      "meat": "Go'sht",
+      "grains": "Don mahsulotlari",
+      "other": "Boshqa"
+    },
+    "emptyState": {
+      "title": "Mahsulotlar topilmadi",
+      "emptyInventory": "Inventaringiz bo'sh. Boshlash uchun mahsulotlar qo'shing.",
+      "noFilterResults": "Inventaringizda {{filter}} mahsulotlar yo'q."
+    },
+    "toast": {
+      "updateError": "Mahsulotni yangilab bo'lmadi.",
+      "updated": "Mahsulot yangilandi.",
+      "addError": "Mahsulotni qo'shib bo'lmadi.",
+      "added": "Mahsulot inventarga qo'shildi.",
+      "deleteError": "Mahsulotni o'chirib bo'lmadi.",
+      "deleted": "Mahsulot o'chirildi."
+    }
+  },
+  "recipes": {
+    "title": "Retseptlar",
+    "subtitle": "Inventaringizga asoslangan mazali retseptlarni kashf eting",
+    "emptyState": {
+      "title": "Hali retseptlar yo'q",
+      "description": "Shaxsiy tavsiyalar olish uchun inventarga mahsulotlar qo'shing."
+    },
+    "details": {
+      "minutes": "daqiqa",
+      "servings": "porsiya",
+      "ingredients": "Tarkibiy qismlar",
+      "instructions": "Ko'rsatmalar"
+    }
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "subtitle": "Hisobingiz va afzalliklaringizni boshqaring",
+    "profile": {
+      "title": "Profil ma'lumotlari",
+      "email": "Elektron pochta",
+      "fullName": "To'liq ism",
+      "fullNamePlaceholder": "Ismingiz"
+    },
+    "dietary": {
+      "title": "Ovqatlanish afzalliklari",
+      "description": "Shaxsiy retsept tavsiyalari olish uchun ovqatlanish afzalliklaringizni tanlang.",
+      "options": {
+        "vegetarian": "Vegetarian",
+        "vegan": "Vegan",
+        "keto": "Keto",
+        "halal": "Halol",
+        "kosher": "Kosher",
+        "glutenFree": "Glutensiz",
+        "dairyFree": "Sutsiz",
+        "nutFree": "Yong'oqsiz"
+      }
+    },
+    "notifications": {
+      "title": "Bildirishnomalar",
+      "expiryReminders": "Muddat eslatmalari",
+      "expiryDescription": "Mahsulotlar muddati yaqinlashganda bildirishnoma oling"
+    },
+    "appearance": {
+      "title": "Ko'rinish",
+      "description": "Ilovaning ko'rinishini sozlang"
+    },
+    "language": {
+      "title": "Til",
+      "description": "Afzal tilni tanlang"
+    },
+    "saveChanges": "O'zgarishlarni saqlash",
+    "toast": {
+      "error": "Sozlamalarni saqlab bo'lmadi.",
+      "saved": "Sozlamalaringiz yangilandi."
+    }
+  },
+  "foodCard": {
+    "expires": "Tugaydi",
+    "expired": "Muddati o'tgan",
+    "daysLeft": "kun qoldi",
+    "freshness": "yangilik"
+  }
+}

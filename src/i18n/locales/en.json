@@ -1,0 +1,273 @@
+{
+  "common": {
+    "appName": "ZeroWaste AI",
+    "tagline": "AI-Powered",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "loading": "Loading...",
+    "loggedInAs": "Logged in as",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "scan": "Scan Food",
+    "inventory": "Inventory",
+    "recipes": "Recipes",
+    "settings": "Settings"
+  },
+  "landing": {
+    "hero": {
+      "badge": "AI-Powered Food Management",
+      "title1": "Stop wasting food.",
+      "title2": "Save money & the planet.",
+      "description": "ZeroWaste AI uses artificial intelligence to help you track food freshness, reduce waste, and discover recipes from ingredients you already have.",
+      "cta": "Get Started Free",
+      "watchDemo": "Watch Demo"
+    },
+    "stats": {
+      "lessWaste": "Less food waste",
+      "savedMonthly": "Saved monthly",
+      "activeUsers": "Active users"
+    },
+    "features": {
+      "scanning": {
+        "title": "AI-Powered Scanning",
+        "description": "Instantly identify food items and analyze freshness with your camera"
+      },
+      "inventory": {
+        "title": "Smart Inventory",
+        "description": "Track expiry dates and get alerts before food goes to waste"
+      },
+      "recipes": {
+        "title": "Recipe Suggestions",
+        "description": "Discover delicious recipes based on what's in your kitchen"
+      },
+      "analytics": {
+        "title": "Waste Analytics",
+        "description": "Monitor your progress and see how much you've saved"
+      }
+    },
+    "cta": {
+      "title": "Ready to reduce your food waste?",
+      "description": "Join thousands of users who are saving money and helping the planet with ZeroWaste AI.",
+      "button": "Start for Free"
+    },
+    "footer": {
+      "copyright": "Helping reduce food waste, one meal at a time."
+    }
+  },
+  "auth": {
+    "welcome": "Welcome back",
+    "createAccount": "Create an account",
+    "loginSubtitle": "Sign in to manage your food inventory",
+    "registerSubtitle": "Start reducing food waste today",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "errors": {
+      "loginFailed": "Login failed",
+      "registerFailed": "Registration failed"
+    },
+    "success": {
+      "registered": "Account created! You can now sign in."
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Track your food inventory and reduce waste",
+    "scanFood": "Scan Food",
+    "stats": {
+      "totalItems": "Total Items",
+      "inInventory": "In your inventory",
+      "freshItems": "Fresh Items",
+      "safeToConsume": "Safe to consume",
+      "expiringSoon": "Expiring Soon",
+      "within3Days": "Within 3 days",
+      "wastePrevented": "Waste Prevented",
+      "thisMonth": "This month",
+      "vsLastWeek": "vs last week",
+      "improvement": "improvement"
+    },
+    "quickActions": {
+      "scanNew": "Scan New Food",
+      "scanDesc": "Use AI to identify food and estimate freshness",
+      "getRecipes": "Get Recipes",
+      "recipesDesc": "Discover meals based on your inventory",
+      "viewInventory": "View Inventory",
+      "inventoryDesc": "Manage and track all your food items"
+    },
+    "expiringSection": {
+      "title": "Expiring Soon",
+      "viewAll": "View All"
+    },
+    "emptyState": {
+      "title": "Your inventory is empty",
+      "description": "Start by scanning some food items or adding them manually to track freshness and reduce waste.",
+      "button": "Scan Your First Item"
+    }
+  },
+  "scan": {
+    "title": "Scan Food",
+    "subtitle": "Use AI to identify food items and estimate freshness",
+    "ready": {
+      "title": "Ready to scan",
+      "description": "Point your camera at a food item to identify it and check its freshness.",
+      "openCamera": "Open Camera",
+      "uploadImage": "Upload Image"
+    },
+    "scanning": {
+      "analyzing": "Analyzing...",
+      "capture": "Capture"
+    },
+    "result": {
+      "identified": "Item Identified",
+      "analysisComplete": "AI analysis complete",
+      "foodItem": "Food Item",
+      "category": "Category",
+      "freshnessScore": "Freshness Score",
+      "estimatedExpiry": "Estimated Expiry",
+      "days": "days",
+      "quantity": "Quantity",
+      "addToInventory": "Add to Inventory",
+      "scanAgain": "Scan Again"
+    },
+    "errors": {
+      "cameraAccess": "Camera access denied",
+      "cameraDescription": "Please allow camera access to scan food items.",
+      "scanFailed": "Scan failed",
+      "scanDescription": "Could not analyze the image. Please try again.",
+      "saveFailed": "Failed to save",
+      "saveDescription": "Could not add item to inventory."
+    },
+    "success": {
+      "itemAdded": "Item added!",
+      "itemAddedDesc": "has been added to your inventory."
+    }
+  },
+  "inventory": {
+    "title": "Inventory",
+    "subtitle": "Manage your food items and track expiry dates",
+    "addItem": "Add Item",
+    "filters": {
+      "all": "All Items",
+      "fresh": "Fresh",
+      "expiring": "Expiring Soon",
+      "expired": "Expired"
+    },
+    "form": {
+      "editItem": "Edit Item",
+      "addNewItem": "Add New Item",
+      "name": "Name",
+      "namePlaceholder": "e.g., Apple",
+      "quantity": "Quantity",
+      "unit": "Unit",
+      "category": "Category",
+      "expiryDate": "Expiry Date",
+      "freshnessScore": "Freshness Score",
+      "updateItem": "Update Item"
+    },
+    "units": {
+      "piece": "Piece",
+      "kg": "Kg",
+      "liter": "Liter",
+      "pack": "Pack"
+    },
+    "categories": {
+      "fruits": "Fruits",
+      "vegetables": "Vegetables",
+      "dairy": "Dairy",
+      "meat": "Meat",
+      "grains": "Grains",
+      "other": "Other"
+    },
+    "emptyState": {
+      "title": "No items found",
+      "emptyInventory": "Your inventory is empty. Add some items to get started.",
+      "noFilterResults": "No {{filter}} items in your inventory."
+    },
+    "toast": {
+      "updateError": "Failed to update item.",
+      "updated": "Item has been updated.",
+      "addError": "Failed to add item.",
+      "added": "Item has been added to inventory.",
+      "deleteError": "Failed to delete item.",
+      "deleted": "Item has been removed."
+    }
+  },
+  "recipes": {
+    "title": "Recipes",
+    "subtitle": "Discover delicious recipes based on your inventory",
+    "emptyState": {
+      "title": "No recipes yet",
+      "description": "Add items to your inventory to get personalized recipe suggestions."
+    },
+    "details": {
+      "minutes": "minutes",
+      "servings": "servings",
+      "ingredients": "Ingredients",
+      "instructions": "Instructions"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account and preferences",
+    "profile": {
+      "title": "Profile Information",
+      "email": "Email",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your name"
+    },
+    "dietary": {
+      "title": "Dietary Preferences",
+      "description": "Select your dietary preferences to get personalized recipe suggestions.",
+      "options": {
+        "vegetarian": "Vegetarian",
+        "vegan": "Vegan",
+        "keto": "Keto",
+        "halal": "Halal",
+        "kosher": "Kosher",
+        "glutenFree": "Gluten-Free",
+        "dairyFree": "Dairy-Free",
+        "nutFree": "Nut-Free"
+      }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "expiryReminders": "Expiry Reminders",
+      "expiryDescription": "Get notified when food items are about to expire"
+    },
+    "appearance": {
+      "title": "Appearance",
+      "description": "Customize the look and feel of the app"
+    },
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language"
+    },
+    "saveChanges": "Save Changes",
+    "toast": {
+      "error": "Failed to save settings.",
+      "saved": "Your settings have been updated."
+    }
+  },
+  "foodCard": {
+    "expires": "Expires",
+    "expired": "Expired",
+    "daysLeft": "days left",
+    "freshness": "freshness"
+  }
+}
